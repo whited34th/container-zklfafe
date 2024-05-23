@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "whited34th",
+  "repo": "container-zklfafe",
+  "name": "whited34th",
+  "email": "thewh1ted34th@protonmail.com",
+}
